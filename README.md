@@ -43,6 +43,7 @@ A skill is a folder with a SKILL.md that teaches an agent a workflow. The ecosys
 - [AgentBody Skills](https://github.com/agentbody/skills) `* 1`: AgentBody's public skills collection, including X Research for read-only public X/Twitter search, trends, profiles, posts, media, and replies. Requires a commercial AgentBody API key.
 - [distro-skills](https://github.com/royalpinto007/distro-skills) `* 0`: 26 Agent Skills that teach an agent to distribute a dev or indie product across GitHub, HN, Reddit, dev.to, and more.
 - [alapha888/agent-skills-en](https://github.com/alapha888/agent-skills-en): Five MIT-licensed productivity skills for AI coding agents: meeting notes, code review checklist, deep research framework, tech writing proofread, and git commit messages.
+- [LogNorm](https://github.com/lognorm/lognorm-mcp/tree/main/skills/lognorm): Work a site's SEO and AI-visibility (GEO) backlog through the hosted LogNorm MCP server: audits, fixes, content, AI-answer tracking. Needs a LogNorm account (free plan available).
 
 ### Coding and review
 
