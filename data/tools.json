@@ -136,6 +136,13 @@
     "repo": "Continuum-AI-Corp/OrcaReplay"
   },
   {
+    "name": "cloudish",
+    "url": "https://github.com/cloudishai/skills/tree/main/skills/cloudish",
+    "category": "coding",
+    "desc": "Teaches an agent to deploy a Dockerfile, source folder, or container image to Cloudish and report the live URL, minting its own API key with no signup, for developers who want their agent to put an app, API, or bot online.",
+    "repo": "cloudishai/skills"
+  },
+  {
     "name": "anthropics/skills, docx",
     "url": "https://github.com/anthropics/skills/tree/main/skills/docx",
     "category": "docs",
